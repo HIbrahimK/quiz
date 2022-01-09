@@ -1,0 +1,2 @@
+Password kurallarını değiiştirmek için vendor/laravel/fortify/src/Rules/password.php değiştirilir
+Profil fotosu api team gibi kuralları config/jetstream.php içinden değiştirilebilir
